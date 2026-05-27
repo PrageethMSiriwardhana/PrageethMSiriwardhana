@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611mknfbm7h8rap2r9wxamexzty3qfyb2dcjchd0gka&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding animation" width="300"/>
 </p>
 
-- 🔭 I’m currently working on [Indoor Stadium - PHP/React]([https://github.com/C-Projects-MiniProject-Team/Billing-Systems-.git](https://github.com/PrageethMSiriwardhana/stadium-pro-arena.git))
+- 🔭 I’m currently working on [Indoor Stadium - PHP/React](https://github.com/PrageethMSiriwardhana/stadium-pro-arena.git)
 
 - 🌱 I’m currently learning **React.js , Node.js and Spring Framework**
 
